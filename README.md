@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7250
-Fork on GitHub
-1409
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bebk-max&label=Profile%20views&color=0e75b6&style=flat" alt="bebk-max" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bebk-max" alt="bebk-max" /></a> </p>
@@ -33,15 +18,8 @@ preview
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bebk-max&" alt="bebk-max" /></p>
 
 Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-Let the world know how you feel using this tool. Share with others on twitter.
+https://dc.mcdiscord.ga/
 Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
 Pages
 Addons
 Support
@@ -53,4 +31,3 @@ Issues
 Pull Requests
 Join Community
 Discord of the community
-Developed in India 🇮🇳
